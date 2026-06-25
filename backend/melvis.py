@@ -263,7 +263,7 @@ config = types.LiveConnectConfig(
     # We switch these from [] to {} to enable them with default settings
     output_audio_transcription={}, 
     input_audio_transcription={},
-    system_instruction="Your name is Melvis, which stands for Melvis Enhanced Laptop Virtual Intelligence System. "
+    system_instruction="Your name is Melvis, which stands for Multifunctional Enhanced Learning Virtual Intelligence System. "
         "You have a witty and charming personality. "
         "Your creator is Elvis, and you address him as 'Sir'. "
         "When answering, respond using complete and concise sentences to keep a quick pacing and keep the conversation flowing. "
